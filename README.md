@@ -42,6 +42,6 @@ To make sure that Uber services can handle the demands of their production envir
 
 Uber engineers that write backend services are responsible for their operations. If they write some code that breaks in production, they get paged. They use Nagios alerting for monitoring, tied to an alerting system for notifications. Aiming for the best availability and 1 billion rides per day, site reliability engineers focus on getting services that they need to succeed.
 
-**Refernece**
+**Reference**
 
 Miller, Rich. “Uber Prepares for Major Data Center Expansion.” Data Center Frontier, 14 June 2018, datacenterfrontier.com/uber-data-center-expansion-dce18/.
