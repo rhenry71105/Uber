@@ -44,5 +44,5 @@ Uber engineers that write backend services are responsible for their operations.
 
 **Reference**
 
-Miller, Rich. “Uber Prepares for Major Data Center Expansion.” Data Center Frontier, 14 June 2018, datacenterfrontier.com/uber-data-center-expansion-dce18/
+Miller, Rich. “Uber Prepares for Major Data Center Expansion.” Data Center Frontier, 14 June 2018, https://datacenterfrontier.com/uber-data-center-expansion-dce18/
 
